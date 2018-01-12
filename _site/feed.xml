@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aspire</title>
-    <description>Clean News &amp; Magazine Jekyll Theme</description>
-    <link>http://aspire-jekyll.aspirethemes.com/</link>
-    <atom:link href="http://aspire-jekyll.aspirethemes.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jan 2018 00:52:12 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Jan 2018 00:52:12 +0000</lastBuildDate>
+    <title>BlockchainHippy.io</title>
+    <description>Trailblazing the decentralized lifestyle and doing my best to document it.</description>
+    <link>https://BlockchainHippy.io/</link>
+    <atom:link href="https://BlockchainHippy.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jan 2018 03:15:00 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Jan 2018 03:15:00 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
 
+    
+      <item>
+        <title>The North American Bitcoin Conference</title>
+        <description>&lt;p&gt;Here it is: &lt;a href=&quot;https://btcmiami.com/&quot;&gt;btcmiami.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+        <link>https://BlockchainHippy.io/2018/01/12/btcmiami/</link>
+        <guid isPermaLink="true">https://BlockchainHippy.io/2018/01/12/btcmiami/</guid>
+      </item>
+    
+      <item>
+        <title>Anarchapulco</title>
+        <description>&lt;p&gt;Legit: &lt;a href=&quot;https://anarchapulco.com/&quot;&gt;anarchapulco.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pretty cosmic badass event.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+        <link>https://BlockchainHippy.io/2018/01/11/anarchapulco/</link>
+        <guid isPermaLink="true">https://BlockchainHippy.io/2018/01/11/anarchapulco/</guid>
+      </item>
+    
+      <item>
+        <title>Love Burn</title>
+        <description>&lt;p&gt;I love you babe: &lt;a href=&quot;https://theloveburn.com/&quot;&gt;theloveburn.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So good to be connected.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+        <link>https://BlockchainHippy.io/2018/01/10/loveburn/</link>
+        <guid isPermaLink="true">https://BlockchainHippy.io/2018/01/10/loveburn/</guid>
+      </item>
     
 
     
@@ -28,9 +59,15 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
 </description>
-            <link>http://aspire-jekyll.aspirethemes.com/about.html</link>
+            <link>https://BlockchainHippy.io/about.html</link>
           </item>
         
+      
+    
+      
+    
+      
+    
       
     
       

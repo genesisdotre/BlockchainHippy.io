@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Aspire
+title:       BlockchainHippy.io
 logo:        # Logo Image URL
-description: Clean News & Magazine Jekyll Theme
+description: Trailblazing the decentralized lifestyle and doing my best to document it.
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         http://aspire-jekyll.aspirethemes.com # The base hostname & protocol for your site
-twitter:     https://twitter.com/aspirethemes
-facebook:    https://www.facebook.com/aspirethemes
-instagram:   https://www.instagram.com/aspirethemes
+url:         https://BlockchainHippy.io # The base hostname & protocol for your site
+twitter:     https://twitter.com/BlockchainHippy
+facebook:    https://facebook.com/camillecorti
+instagram:   https://instagram.com/camillecorti/
 
 markdown:  kramdown
 permalink: pretty
