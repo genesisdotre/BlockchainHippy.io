@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       BlockchainHippy.io
+title:       blockchainhippy.io
 logo:        # Logo Image URL
 description: Trailblazing the decentralized lifestyle and doing my best to document it.
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         https://BlockchainHippy.io # The base hostname & protocol for your site
-twitter:     https://twitter.com/BlockchainHippy
+url:         https://blockchainhippy.io # The base hostname & protocol for your site
+twitter:     https://twitter.com/blockchainhippy
 facebook:    https://facebook.com/camillecorti
 instagram:   https://instagram.com/camillecorti/
 
