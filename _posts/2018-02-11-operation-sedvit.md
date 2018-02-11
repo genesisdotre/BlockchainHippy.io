@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operation #SedVit
+title: Operation &#35;SedVit
 featured: true
 author: admin
 tags: [bitcoin, ethereum, sedvit]
