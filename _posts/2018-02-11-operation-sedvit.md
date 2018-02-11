@@ -4,7 +4,7 @@ title: Operation &#35;SedVit
 featured: true
 author: admin
 tags: [bitcoin, ethereum, sedvit]
-image: '/images/posts/vitalik-blockchain-hippy-1.jpg'
+image: '/images/posts/vitalik-blockchain-hippy-cover.jpg'
 ---
 
 <p>Disclaimer: Grammar assimilation rejected. Opinions holon. </p>
