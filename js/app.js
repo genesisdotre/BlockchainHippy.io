@@ -92,7 +92,7 @@ $(document).ready(function() {
     limit: 9,
     resolution: 'thumbnail',
     userId: '37323363',
-    accessToken: '5b2c861229c4483098b385c6f00aa8ec',
+    accessToken: '37323363.5b2c861.0078be1e060541c3934e20007c59990e',
     template:
       '<div class="c-widget-instagram__item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></div>'
   });
