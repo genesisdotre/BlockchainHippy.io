@@ -2,6 +2,11 @@
 layout: page
 title: Pitch Deck
 ---
+<html>
+<body>
 <p>
 <img src="images/pitchdeck.jpg" alt="Pitch Deck">
 </p>
+</html>
+</body>
+
