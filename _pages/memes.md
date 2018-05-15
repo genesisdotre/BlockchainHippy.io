@@ -12,7 +12,8 @@ title: Memes
 </a>
 </p>
 <p>
-<a href="http://pespmc1.vub.ac.be/MEMLEX.html">Principia Cybernetica Memetic Lexicon</a>
+  <a href="http://pespmc1.vub.ac.be/MEMLEX.html">
+  <img src="images/memeticlexicon.jpg" alt="Principia Cybernetica Memetic Lexicon">
 </p>
 
 <a href="https://www.youtube.com/watch?v=AsbAGMPpZ6g">
