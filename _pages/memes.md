@@ -15,10 +15,6 @@ title: Memes
 <a href="http://pespmc1.vub.ac.be/MEMLEX.html">Principia Cybernetica Memetic Lexicon</a>
 </p>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/AsbAGMPpZ6g">
-</iframe>
-
 <a href="https://www.youtube.com/watch?v=AsbAGMPpZ6g">
   <img src="images/systemcontrol.jpg" alt="Money as a System of Control by Andrea Antonopoulos">
 
