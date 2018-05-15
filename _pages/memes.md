@@ -23,4 +23,6 @@ title: Memes
 src="https://www.youtube.com/embed/2L9RZYguI0Q">
 </iframe>
 
+<a href="https://anaiyasophia.com/articles/lilith-and-eve-the-forgotten-woman">
+  <img src="images/lilith.jpg" alt="Lilith and Eve: The Forgotten Woman">
 
