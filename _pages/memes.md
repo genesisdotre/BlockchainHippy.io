@@ -11,6 +11,9 @@ title: Memes
   <img src="images/vitalikmeme.jpg" alt="The Meaning of Decentralization by Vitalik Buterin">
 </a>
 </p>
+<p>
+<a href="http://pespmc1.vub.ac.be/MEMLEX.html">Principia Cybernetica Memetic Lexicon</a>
+</p>
 
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/AsbAGMPpZ6g">
