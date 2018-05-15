@@ -19,6 +19,9 @@ title: Memes
 src="https://www.youtube.com/embed/AsbAGMPpZ6g">
 </iframe>
 
+<a href="https://www.youtube.com/watch?v=AsbAGMPpZ6g">
+  <img src="images/systemcontrol.jpg" alt="Money as a System of Control by Andrea Antonopoulos">
+
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/2L9RZYguI0Q">
 </iframe>
