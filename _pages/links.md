@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Memes
 ---
 
 <p>Here are some helpful links that contributed to my "decentralization". Maybe one day you can become as "decentralized" as me. Doesn't that sound awesome?</p>
