@@ -26,7 +26,7 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
 
 <a href="https://anaiyasophia.com/articles/lilith-and-eve-the-forgotten-woman">
   <img src="images/lilith.jpg" alt="Lilith and Eve: The Forgotten Woman">
-  
+  <br>
   <a href="http://www.youtube.com/watch?v=lWJBWU7asEg">
   <img src="/images/kanye.gif" alt="Slavery Is A Choice - Kanye West">
 
