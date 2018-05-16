@@ -3,8 +3,9 @@ layout: page
 title: Memes
 ---
 
-<p>Here are some helpful links that contributed to my "decentralization". Maybe one day you can become as "decentralized" as me. Doesn't that sound awesome?</p>
-<p> MEMES MEMES MEMES EVERYTHING IN LIFE IS A MEME AND EVERYTHING IS A FUCKING LINK ISNT THAT STUPID</p>
+<p>"Here are some helpful links that contributed to my "decentralization". Maybe one day you can become as "decentralized" as me. Doesn't that sound awesome?</p>
+<p> MEMES MEMES MEMES EVERYTHING IN LIFE IS A MEME AND EVERYTHING IS A FUCKING LINK ISNT THAT STUPID"</p>
+<p>- Channeled by Anonymous</p>
 <br>
 <p>
 <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">
