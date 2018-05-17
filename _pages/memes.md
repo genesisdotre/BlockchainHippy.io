@@ -14,6 +14,7 @@ title: Memes
 <p>
   <a href="http://pespmc1.vub.ac.be/MEMLEX.html">
   <img src="images/memeticlexicon.jpg" alt="Principia Cybernetica Memetic Lexicon">
+  </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=AsbAGMPpZ6g">
@@ -25,12 +26,16 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
 
 <a href="https://anaiyasophia.com/articles/lilith-and-eve-the-forgotten-woman">
   <img src="images/lilith.jpg" alt="Lilith and Eve: The Forgotten Woman">
+  </a>
   <br>
   <a href="http://www.youtube.com/watch?v=lWJBWU7asEg">
   <img src="/images/kanye.gif" alt="Slavery Is A Choice - Kanye West">
-    
+   </a>
+
   <br>
     
   <a href="https://futurethinkers.org/blockchain-possibilities/">
   <img src="/images/futurethinkers.jpg" alt="FTP041: Possibilities of The Blockchain">
+    </a>
+
 
