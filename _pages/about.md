@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Mission
 ---
 
 I bought my first bitcoin in 2012. I was desperate to find a certain empathy-inducing substance that was not available locally. So I sought out a solution using our greatest resource- the internet. Along the way I developed relationships with very interesting people via encrypted chat over Internet Relay Channels. I speak 4chan and I hodl dogecoin. irl people think I’m a hacker. I can handle a trezor and encrypt an addy if it’s to be stored on a third party’s server BUT my technical skills do not extend far beyond that. My reasons for sticking around the forums and chat rooms of this proprietary website was not for the illicit substances, it was for the relationships I was forming. Early on I realized most of my new digital friends were introverted computer scientists, autistic teenagers, extroverts with social anxiety and revolutionaries. Mostly everyone had addiction issues. Within the anonymity of the dark web I was able to drop my inhibitions and communicate honestly with these people because I had no fear of being discovered. I could be honest about myself. These people were different than everyone I grew up with, they were refusing to conform to societal norms. They were unapologetic. They were honest. With the support of this community I was able to shed the shell of who I was and scale into who I’m becoming. I knew there was something about these people that resonated deeply with me. In hindsight I believe I was being mentored for the impending blockchain revolution.
