@@ -19,11 +19,16 @@ title: Memes
 
 <a href="https://www.youtube.com/watch?v=AsbAGMPpZ6g">
   <img src="images/systemcontrol.jpg" alt="Money as a System of Control by Andrea Antonopoulos">
+  </a>
 <br>
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/2L9RZYguI0Q">
 </iframe>
-
+  <br>
+<a href="https://www.youtube.com/watch?v=2L9RZYguI0Q">
+  <img src="images/no3pv.jpg" alt="A Dangerous Idea">
+  </a>
+<br>
 <a href="https://anaiyasophia.com/articles/lilith-and-eve-the-forgotten-woman">
   <img src="images/lilith.jpg" alt="Lilith and Eve: The Forgotten Woman">
   </a>
