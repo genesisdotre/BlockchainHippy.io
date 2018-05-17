@@ -7,4 +7,5 @@ tags: [bitcoin, event]
 image: '/images/anarchaportugal/thumbnail.jpg'
 ---
 
-here is where you will learn everything there is to learn about this groundbreaking event
+<a href="https://anarchaportugal.com/">
+  <img src="/images/anarchaportugal/banner.jpg" alt="AnarchaPortugal">
