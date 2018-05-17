@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anarchaportugal
-featured: true
+featured: false
 author: admin
 tags: [bitcoin, event]
 image: '/images/anarchaportugal/thumbnail.jpg'
