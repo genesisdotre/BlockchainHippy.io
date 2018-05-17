@@ -13,3 +13,7 @@ I bought my first bitcoin in 2012. I was desperate to find a certain empathy-ind
 <p>Inviting the thoughts leaders in the blockchain revolution for a coffee date and hit “record” on my zoomH6. Which is pretty much all I know how to do for a podcast. This is why I love and rely on the collaborative efforts of CBP.</p>
 <p>Encouraging creativity and self-guided learning to foster innovation. Cultivating community beautification using eco-friendly and self-sustaining systems. Adding value to the lives of the people I love and interact with.
 <p>I believe blockchain technology has the potential to eradicate nonnconsensual enslavement to the powers that be. As early adopters we have the responsibility to shift perspective and shape the future.</p>
+
+<p>
+<img src="images/pitchdeck.jpg" alt="Pitch Deck">
+</p>
