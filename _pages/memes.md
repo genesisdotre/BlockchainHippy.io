@@ -29,4 +29,7 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
   <br>
   <a href="http://www.youtube.com/watch?v=lWJBWU7asEg">
   <img src="/images/kanye.gif" alt="Slavery Is A Choice - Kanye West">
+    
+  <a href="https://futurethinkers.org/blockchain-possibilities/">
+  <img src="/images/futurethinkers.jpg" alt="FTP041: Possibilities of The Blockchain">
 
