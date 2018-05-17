@@ -9,7 +9,7 @@ I bought my first bitcoin in 2012. I was desperate to find a certain empathy-ind
 <h3>Mission</h3>
 
 <p>Trailblazing the decentralized lifestyle and doing my best to document it. I’m not a great speaker. It is often difficult to form sentences from my thoughts. I prefer to speak in person because I believe in the vibes and energy exchange between people to be just as important as what’s attempting to be communicated. With writing I can edit over and over so I can eventually get my point across, but I don’t get to exchange energy.</p>
-<p>Turn the prison institution into an educational experience. Collaborating within CBP to build a series of certifications and organize a program within the IDOC that enables inmates to be blockchain certified and also offer courses in computer programming.</p>
-<p>Invite the thoughts leaders in the blockchain revolution for a coffee date and hit “record” on my zoomH6. Which is pretty much all I know how to do for a podcast. This is why I love and rely on the collaborative efforts of CBP.</p>
-<p>To encourage creativity and self-guided learning to foster innovation. To cultivate community beautification using eco-friendly and self-sustaining systems. To add value to the lives of the people I love and interact with.
-<p>I believe blockchain technology has the potential to eradicate racism. As an early adopter we have the responsibility to shape.</p>
+<p>Turning the prison institution into an educational experience. Collaborating within CBP to build a series of certifications and organize a program within the IDOC that enables inmates to be blockchain certified and also offer courses in computer programming.</p>
+<p>Inviting the thoughts leaders in the blockchain revolution for a coffee date and hit “record” on my zoomH6. Which is pretty much all I know how to do for a podcast. This is why I love and rely on the collaborative efforts of CBP.</p>
+<p>Encouraging creativity and self-guided learning to foster innovation. Cultivating community beautification using eco-friendly and self-sustaining systems. Adding value to the lives of the people I love and interact with.
+<p>I believe blockchain technology has the potential to eradicate nonnconsensual enslavement to the powers that be. As early adopters we have the responsibility to shift perspective and shape the future.</p>
