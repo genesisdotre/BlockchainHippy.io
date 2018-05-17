@@ -2,11 +2,10 @@
   <a href='{{ site.baseurl }}/' class='c-nav__link'>Movement</a>
 </li>
 
-{% for page in site.pages %}
-  {% unless page.name == '404.md' %}
-    {% if page.title %}
-      <li class='c-nav__item'>
-        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+<ul class="nav-list">
+  <li {% if page.url == '/mission.html' %}class="active" {% endif %}><a class='page-link' href="/mission.html">Mission</a></li>
+  <li {% if page.url == '/memes.html' %}class="active" {% endif %}><a class='page-link' href="/memes.html">Memes</a></li>
+</ul></a>
       </li>
     {% endif %}
   {% endunless %}
