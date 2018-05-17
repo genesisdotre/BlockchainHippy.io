@@ -5,7 +5,6 @@ title: Memes
 <p>
 Meme Mapping. Click on the meme and see where it takes you lolololol
 </p>
-<br>
 <p>"Here are some helpful links that contributed to my "decentralization". Maybe one day you can become as "decentralized" as me. Doesn't that sound awesome?</p>
 <p> MEMES MEMES MEMES EVERYTHING IN LIFE IS A MEME AND EVERYTHING IS A FUCKING LINK ISNT THAT STUPID"</p>
 <p>- Channeled by Anonymous</p>
