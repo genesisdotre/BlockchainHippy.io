@@ -9,6 +9,7 @@ image: '/images/mailhustle/thumbnail.jpg'
 <p>
 Proof of Advisement data push. Grammar assimilation rejected. 
 <br>
+<br>
 1) After a decade of denying my true calling, and since becoming aware that (gender) labels are barriers to reaching full potential, I began to male hustle. 
 <br>
 <br>
