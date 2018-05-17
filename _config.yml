@@ -27,6 +27,10 @@ gems:
 
 include:
   - _pages
+  
+  header_pages:
+  - mission.html
+  - memes.html
 
 exclude:
   - vendor
