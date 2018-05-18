@@ -44,5 +44,9 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
   <a href="https://futurethinkers.org/blockchain-possibilities/">
   <img src="/images/futurethinkers.jpg" alt="FTP041: Possibilities of The Blockchain">
     </a>
+   <br>
+     <a href="https://medium.com/@NSallakAnderson/pretty-birds-in-pretty-cages-could-the-nuclear-family-be-the-reason-were-all-miserable-46126d573263/">
+  <img src="/images/birdcage.jpg" alt="Pretty Birds in Pretty Cages">
+    </a>
 
 
