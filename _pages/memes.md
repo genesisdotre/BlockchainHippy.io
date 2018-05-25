@@ -58,5 +58,5 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
  </a>
 <br>
 <a href="https://www.youtube.com/watch?v=3R8OpdBVfU0">
-<img src="/images/freeross.jpg" alt"Free Ross Ulbricht">
+<img src="/images/freeross.jpg" alt="Free Ross Ulbricht">
 </a>
