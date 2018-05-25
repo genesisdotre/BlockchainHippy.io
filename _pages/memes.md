@@ -56,4 +56,7 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
 <a href="http://freeross.org">
 <img src="/images/rossulbricht.jpg" alt="Ross Ulbricht Defense Fund">
  </a>
-
+<br>
+<a href="https://www.youtube.com/watch?v=3R8OpdBVfU0">
+<img src="/images/freeross.jpg" alt"Free Ross Ulbricht">
+</a>
