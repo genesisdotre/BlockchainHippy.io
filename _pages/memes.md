@@ -60,3 +60,7 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
 <a href="https://www.youtube.com/watch?v=3R8OpdBVfU0">
 <img src="/images/freeross.jpg" alt="Free Ross Ulbricht">
 </a>
+<br>
+<a href="https://www.youtube.com/watch?v=Ytzc6ehAvOM">
+<img src="/images/pushat.jpg" alt="Pusha T - Infrared">
+</a>
