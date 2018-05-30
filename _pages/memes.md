@@ -64,3 +64,7 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
 <a href="https://www.youtube.com/watch?v=Ytzc6ehAvOM">
 <img src="/images/pushat.jpg" alt="Pusha T - Infrared">
 </a>
+<br>
+<a href="https://www.youtube.com/watch?v=g6iDZspbRMg">
+  <img src="/images/johnoliver.jpg" alt="Cryptocurrencies: Last Week Tonight with John Oliver">
+  </a>
