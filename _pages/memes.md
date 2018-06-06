@@ -68,3 +68,5 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
 <a href="https://www.youtube.com/watch?v=g6iDZspbRMg">
   <img src="/images/johnoliver.jpg" alt="Cryptocurrencies: Last Week Tonight with John Oliver">
   </a>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6lIqNjC1RKU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
