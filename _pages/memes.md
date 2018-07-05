@@ -35,7 +35,7 @@ src="https://www.youtube.com/embed/2L9RZYguI0Q">
   <img src="images/lilith.jpg" alt="Lilith and Eve: The Forgotten Woman">
   </a>
   <br>
-  <a href="http://www.youtube.com/watch?v=lWJBWU7asEg">
+  <a href="http://www.tmz.com/videos/0_pbr17kb2/">
   <img src="/images/kanye.gif" alt="Slavery Is A Choice - Kanye West">
    </a>
 
