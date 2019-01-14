@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anarchapulco
-featured: true
+featured: false
 author: admin
 tags: [events]
 image: '/images/posts/anarchapulco.jpg'
